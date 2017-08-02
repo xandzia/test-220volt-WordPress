@@ -37,7 +37,7 @@ ul{
     position: relative;
 }
 .top{
-    background-image: url('img/background/metal-pattern.png');
+    background-image: url('../img/background/metal-pattern.png');
     box-shadow: $box-shadows;
     height: 40px;
     z-index: 3;
@@ -57,7 +57,7 @@ ul{
         z-index: 1;
     }
     .basket{
-        background: url('img/background/basket.png') top no-repeat;
+        background: url('../img/background/basket.png') top no-repeat;
         background-color: transparent;
         z-index: 20;
         padding: 0;
@@ -158,7 +158,7 @@ BG==========================================*/
     width: 100%;
     top: 40px;
     height: inherit;
-    background-image: url(img/background/metal-pattern.png);
+    background-image: url(../img/background/metal-pattern.png);
     z-index: -3;
     height: 110px;
     box-shadow: $box-shadows;
@@ -186,7 +186,7 @@ HEADER TOP-SECOND======================*/
             border-right: 1px solid #d8d8d8;
             }
         &:after{
-            background: url(img/bolt.png) no-repeat 100%;
+            background: url(../img/bolt.png) no-repeat 100%;
             position: absolute;
             content: '';
             top: 2px;
@@ -222,7 +222,7 @@ HEADER TOP-SECOND======================*/
     }
 }
 .t-menu{
-    background: url(img/background/menu-bg.png) no-repeat 100%;
+    background: url(../img/background/menu-bg.png) no-repeat 100%;
     filter: drop-shadow(1px 2px 1px rgba(0, 0, 0, 0.5));
     flex-basis: 230px;
     height: 110px;
@@ -275,7 +275,7 @@ HEADER TOP-SECOND======================*/
         text-align: center;
     }
     button{
-        background: url(img/social.png) no-repeat;
+        background: url(../img/social.png) no-repeat;
         border: none;
         padding: 0;
         margin: 0;
@@ -312,7 +312,7 @@ HEADER TOP-SECOND======================*/
         text-align: center;
     }
     .callback{
-        background: url(img/bell.png) no-repeat;
+        background: url(../img/bell.png) no-repeat;
         height: 42px;
         margin-top: 10px;
         a{
@@ -347,7 +347,7 @@ SEARCH==========================*/
     }
     .btn-search{
         border: 0;
-        background: url(img/bell.png) no-repeat 40%;
+        background: url(../img/bell.png) no-repeat 40%;
         width: 100px;
         color: white;
         cursor: pointer;
@@ -384,46 +384,46 @@ FIXED RIGHT======================*/
         filter: drop-shadow(-1px 1px 0 rgba(255, 255, 255, 1)) brightness(64%);
     }
     .a{
-        background: url(img/fixsd-right.png) no-repeat 50% -1.5%;
+        background: url(../img/fixsd-right.png) no-repeat 50% -1.5%;
     }
     .b{
-        background: url(img/fixsd-right.png) no-repeat 50% 6.5%;
+        background: url(../img/fixsd-right.png) no-repeat 50% 6.5%;
     }
     .c{
-        background: url(img/fixsd-right.png) no-repeat 50% 14%;
+        background: url(../img/fixsd-right.png) no-repeat 50% 14%;
     }
     .d{
-        background: url(img/fixsd-right.png) no-repeat 50% 22%;
+        background: url(../img/fixsd-right.png) no-repeat 50% 22%;
     }
     .e{
-        background: url(img/fixsd-right.png) no-repeat 50% 30.5%;
+        background: url(../img/fixsd-right.png) no-repeat 50% 30.5%;
     }
     .f{
-        background: url(img/fixsd-right.png) no-repeat 50% 38%;
+        background: url(../img/fixsd-right.png) no-repeat 50% 38%;
     }
     .g{
-        background: url(img/fixsd-right.png) no-repeat 50% 45.5%;
+        background: url(../img/fixsd-right.png) no-repeat 50% 45.5%;
     }
     .h{
-        background: url(img/fixsd-right.png) no-repeat 50% 53.5%;
+        background: url(../img/fixsd-right.png) no-repeat 50% 53.5%;
     }
     .i{
-        background: url(img/fixsd-right.png) no-repeat 50% 61.5%;
+        background: url(../img/fixsd-right.png) no-repeat 50% 61.5%;
     }
     .q{
-        background: url(img/fixsd-right.png) no-repeat 50% 69%;
+        background: url(../img/fixsd-right.png) no-repeat 50% 69%;
     }
     .k{
-        background: url(img/fixsd-right.png) no-repeat 50% 77%;
+        background: url(../img/fixsd-right.png) no-repeat 50% 77%;
     }
     .l{
-        background: url(img/fixsd-right.png) no-repeat 50% 85%;
+        background: url(../img/fixsd-right.png) no-repeat 50% 85%;
     }
     .m{
-        background: url(img/fixsd-right.png) no-repeat 50% 93%;
+        background: url(../img/fixsd-right.png) no-repeat 50% 93%;
     }
     .n{
-        background: url(img/fixsd-right.png) no-repeat 50% 101%;
+        background: url(../img/fixsd-right.png) no-repeat 50% 101%;
     }
 }
 /*
@@ -436,7 +436,7 @@ CATEGORY============================================*/
     z-index: 1;
     margin: 6px 23px;
     .nav-bar-menu{
-        background: url(img/background/metal-pattern.png) no-repeat;
+        background: url(../img/background/metal-pattern.png) no-repeat;
         margin-top: 43px;
         margin-bottom: 0;
         padding: 0;
@@ -515,47 +515,47 @@ CATEGORY============================================*/
 }
 
 .a{
-        background: url(img/fixsd-right.png) no-repeat 50% -1.5%;
+        background: url(../img/fixsd-right.png) no-repeat 50% -1.5%;
     background-size: 50%;
     }
     .b{
-        background: url(img/fixsd-right.png) no-repeat 50% 6.5%;
+        background: url(../img/fixsd-right.png) no-repeat 50% 6.5%;
     }
     .c{
-        background: url(img/fixsd-right.png) no-repeat 50% 14%;
+        background: url(../img/fixsd-right.png) no-repeat 50% 14%;
     }
     .d{
-        background: url(img/fixsd-right.png) no-repeat 50% 22%;
+        background: url(../img/fixsd-right.png) no-repeat 50% 22%;
     }
     .e{
-        background: url(img/fixsd-right.png) no-repeat 50% 30.5%;
+        background: url(../img/fixsd-right.png) no-repeat 50% 30.5%;
     }
     .f{
-        background: url(img/fixsd-right.png) no-repeat 50% 38%;
+        background: url(../img/fixsd-right.png) no-repeat 50% 38%;
     }
     .g{
-        background: url(img/fixsd-right.png) no-repeat 50% 45.5%;
+        background: url(../img/fixsd-right.png) no-repeat 50% 45.5%;
     }
     .h{
-        background: url(img/fixsd-right.png) no-repeat 50% 53.5%;
+        background: url(../img/fixsd-right.png) no-repeat 50% 53.5%;
     }
     .i{
-        background: url(img/fixsd-right.png) no-repeat 50% 61.5%;
+        background: url(../img/fixsd-right.png) no-repeat 50% 61.5%;
     }
     .q{
-        background: url(img/fixsd-right.png) no-repeat 50% 69%;
+        background: url(../img/fixsd-right.png) no-repeat 50% 69%;
     }
     .k{
-        background: url(img/fixsd-right.png) no-repeat 50% 77%;
+        background: url(../img/fixsd-right.png) no-repeat 50% 77%;
     }
     .l{
-        background: url(img/fixsd-right.png) no-repeat 50% 85%;
+        background: url(../img/fixsd-right.png) no-repeat 50% 85%;
     }
     .m{
-        background: url(img/fixsd-right.png) no-repeat 50% 93%;
+        background: url(../img/fixsd-right.png) no-repeat 50% 93%;
     }
     .n{
-        background: url(img/fixsd-right.png) no-repeat 50% 101%;
+        background: url(../img/fixsd-right.png) no-repeat 50% 101%;
     }
 /*
 ITEMS-HOVER=====================*/
@@ -645,7 +645,7 @@ MAIN-SECOND==================*/
 .container{
     height: auto;
     width: 100%;
-    background-image: url('img/background/metal-pattern.png');
+    background-image: url('../img/background/metal-pattern.png');
     padding: 10px;
     position: relative;
     margin-bottom: 17px;
@@ -1093,22 +1093,22 @@ center{
         height: 22px;
     }
     .vk{
-        background: url(img/footer-social.png) no-repeat;
+        background: url(../img/footer-social.png) no-repeat;
     }
     .fb{
-        background: url(img/footer-social.png) no-repeat 20%;
+        background: url(../img/footer-social.png) no-repeat 20%;
     }
     .tw{
-        background: url(img/footer-social.png) no-repeat 40.2%;
+        background: url(../img/footer-social.png) no-repeat 40.2%;
     }
     .yt{
-        background: url(img/footer-social.png) no-repeat 60%;
+        background: url(../img/footer-social.png) no-repeat 60%;
     }
     .g{
-        background: url(img/footer-social.png) no-repeat 80.1%;
+        background: url(../img/footer-social.png) no-repeat 80.1%;
     }
     .inst{
-        background: url(img/footer-social.png) no-repeat 100%;
+        background: url(../img/footer-social.png) no-repeat 100%;
     }
 }
 form{
